@@ -1,0 +1,22 @@
+{
+  "name": "mjml-template-project",
+  "version": "1.0.0",
+  "description": "MJML template project to render multiple EDM with localisation and variables support",
+  "author": "Fabio Cigliano <fabio.cigliano@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "mjml": "^4.8.1",
+    "template-file": "^5.1.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.20",
+    "grunt": "^1.3.0",
+    "grunt-shell": "^3.0.1"
+  }
+}

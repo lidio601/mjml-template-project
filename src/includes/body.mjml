@@ -1,0 +1,9 @@
+<mj-section padding-top="30px">
+  <mj-column width="100%">
+    <mj-text>
+      <p>Hi {{ NAME }},</p>
+      <p>{{ MESSAGE }}</p>
+    </mj-text>
+    <mj-button align="center" href="{{ CTA_LINK }}" target="_blank" css-class="c-button">{{ CTA_MESSAGE }}</mj-button>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,13 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-divider border-width="1px" border-color="#E0E0E0"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding="20px 0">
+  <mj-column width="60%">
+    <mj-text font-size="10px">{{ SITE_NAME }}</mj-text>
+  </mj-column>
+  <mj-column width="40%">
+    <mj-text align="right">{{ CTA_LINK }}</mj-text>
+  </mj-column>
+</mj-section>

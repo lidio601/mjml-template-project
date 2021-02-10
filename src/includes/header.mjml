@@ -1,0 +1,17 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-image src="{{ HEADER_IMAGE_SRC }}" alt="{{ SITE_NAME }} logo"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text align="center">{{ SUBJECT }}</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="45%">
+    <mj-text align="center" font-weight="500" padding="0px" font-size="18px">{{ DATE }}</mj-text>
+    <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+    <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+  </mj-column>
+</mj-section>

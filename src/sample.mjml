@@ -1,0 +1,8 @@
+<mjml lang="{{ LOCALE }}" owa="desktop">
+  <mj-include path="./includes/head.mjml" />
+  <mj-body>
+    <mj-include path="./includes/header.mjml" />
+    <mj-include path="./includes/body.mjml" />
+    <mj-include path="./includes/footer.mjml" />
+  </mj-body>
+</mjml>
